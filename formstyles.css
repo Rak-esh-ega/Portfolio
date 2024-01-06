@@ -6,3 +6,17 @@
   font-size: 2rem;
   font-family: "Russo One", sans-serif;
 }
+
+.form1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: "Russo One", sans-serif;
+}
+
+a {
+  color: brown;
+}
+
+.form1 a:hover {
+  color: blueviolet;
+}
